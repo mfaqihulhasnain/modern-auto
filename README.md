@@ -180,8 +180,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Muhammad Faqih Ul Hasnain**
+- GitHub: [@mfaqihulhasnain](https://github.com/mfaqihulhasnain)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
