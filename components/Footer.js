@@ -42,7 +42,9 @@ export default function Footer() {
 
             <div className="flex gap-3">
               <a
-                href="#"
+                href="https://www.facebook.com/profile.php?id=61576750887226&mibextid=wwXIfr&rdid=ssrE9mTJpo19omw9#"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="group w-12 h-12 rounded-xl bg-linear-to-br from-[#1a2332] to-[#0B1120] border border-gray-800 flex items-center justify-center hover:border-[#0A5FFF] hover:shadow-lg hover:shadow-[#0A5FFF]/30 transition-all duration-300"
                 aria-label="Facebook"
               >
@@ -110,19 +112,19 @@ export default function Footer() {
                 <div className="w-10 h-10 rounded-lg bg-linear-to-br from-[#1a2332] to-[#0B1120] border border-gray-800 flex items-center justify-center shrink-0 group-hover:border-[#0A5FFF] transition-colors">
                   <MapPin size={18} />
                 </div>
-                <span className="pt-2">123 Auto Street, Car City, CA 90210</span>
+                <span className="pt-2">1604 SW 29th Street, Oklahoma City, OK 73119</span>
               </li>
               <li className="group flex items-center gap-3 text-gray-400 hover:text-gray-200 transition-colors cursor-pointer">
                 <div className="w-10 h-10 rounded-lg bg-linear-to-br from-[#1a2332] to-[#0B1120] border border-gray-800 flex items-center justify-center shrink-0 group-hover:border-[#0A5FFF] transition-colors">
                   <Phone size={18} />
                 </div>
-                <span>+1 (555) 123-4567</span>
+                <span>+1 405-922-2212</span>
               </li>
               <li className="group flex items-center gap-3 text-gray-400 hover:text-gray-200 transition-colors cursor-pointer">
                 <div className="w-10 h-10 rounded-lg bg-linear-to-br from-[#1a2332] to-[#0B1120] border border-gray-800 flex items-center justify-center shrink-0 group-hover:border-[#0A5FFF] transition-colors">
                   <Mail size={18} />
                 </div>
-                <span>info@modernauto.com</span>
+                <span>Modernautookc@gmail.com</span>
               </li>
             </ul>
           </div>
